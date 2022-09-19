@@ -1,0 +1,25 @@
+{
+  "logo": "/img/logoNegro.svg",
+  "menus": [
+    {
+      "page": "Acerca de",
+      "url": "/acerca"
+    },
+    {
+      "page": "Donde",
+      "url": "/donde"
+    },
+    {
+      "page": "Contacto",
+      "url": "/contacto"
+    },
+    {
+      "page": "Deja tu CV",
+      "url": "/cv"
+    },
+    {
+      "page": "Sustentabilidad",
+      "url": "/sustentabilidad"
+    }
+  ]
+}
