@@ -11,7 +11,7 @@ export default function Footer() {
         </div>
         <div className="flex-ns justify-between">
           <div>
-            <h3 className="f4 b lh-title mb1 primary">Distrito XII</h3>
+            <h3 className="f4 b lh-title mb1">Distrito XII</h3>
             <ul className="mb3">
               <li><a href="/" className="link">Home</a></li>
               <li><a href="/acerca" className="link">Acerca de Nosotros</a></li>
@@ -20,20 +20,20 @@ export default function Footer() {
               <li><a href="/sustentabilidad" className="link">Sustentabilidad</a></li>
               <li><a href="/menu" className="link">Menu</a></li>
               <li><a href="/delivery" className="link">Delivery</a></li>
-              <li className="primary"><a href="" className="link">www.distritoxii.com.ar</a></li>
+              <li className=""><a href="" className="link">www.distritoxii.com.ar</a></li>
             </ul>
           </div>
           <div>
-            <h3 className="f4 b lh-title mb1 primary"><a href="/donde" className="link">Dirección: Luna 902, Parque Patricios</a></h3>
+            <h3 className="f4 b lh-title mb1"><a href="/donde" className="link">Dirección: Luna 902, Parque Patricios</a></h3>
             <ul className="mb3">
-              <li><a href="tel:" className="link">Llamanos o Whatsapp a <br />() </a></li>
+              <li><a href="tel:+5491154052880" className="link">Llamanos o Whatsapp a <br />(+549) 1154052880</a></li>
             </ul>
           </div>
           <div>
-            <h3 className="f4 b lh-title mb2 primary">Redes Sociales</h3>
+            <h3 className="f4 b lh-title mb2">Redes Sociales</h3>
             <ul className="mhn2">
-              <SocialIcon link="#" iconPath="/img/icons-facebook.svg" />
-              <SocialIcon link="#" iconPath="/img/icons-instagram.svg" />
+              <SocialIcon link="https://www.instagram.com/cafedistritoxii/" iconPath="/img/icons-instagram.svg" />
+              <SocialIcon link="https://api.whatsapp.com/send?phone=5491154052880" iconPath="/img/icons-whatsapp.svg" />
             </ul>
           </div>
         </div>
