@@ -20,6 +20,14 @@
     {
       "page": "Sustentabilidad",
       "url": "/sustentabilidad"
+    },
+    {
+      "page": "Menu",
+      "url": "/menu"
+    },
+    {
+      "page": "Delivery",
+      "url": "/delivery"
     }
   ]
 }

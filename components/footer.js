@@ -16,6 +16,10 @@ export default function Footer() {
               <li><a href="/" className="link">Home</a></li>
               <li><a href="/acerca" className="link">Acerca de Nosotros</a></li>
               <li><a href="/cv" className="link">Dejanos tu CV</a></li>
+              <li><a href="/contacto" className="link">Contactanos</a></li>
+              <li><a href="/sustentabilidad" className="link">Sustentabilidad</a></li>
+              <li><a href="/menu" className="link">Menu</a></li>
+              <li><a href="/delivery" className="link">Delivery</a></li>
               <li className="primary"><a href="" className="link">www.distritoxii.com.ar</a></li>
             </ul>
           </div>
