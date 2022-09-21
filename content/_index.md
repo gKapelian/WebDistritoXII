@@ -1,5 +1,5 @@
 ---
-title: "Distrito XII"
+baner: /img/logobaner.png
 subtitle: "El sabor del buen cafe"
 image: /img/home-cafe-jumbotron.webp
 blurb:

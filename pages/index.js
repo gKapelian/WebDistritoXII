@@ -18,8 +18,7 @@ export default function Index({ homeData, posts }) {
           <title>Home | {CMS_NAME}</title>
         </Head>
         <Jumbotron 
-          title={homeData.title}
-          subtitle={homeData.subtitle}
+          imageBanner={homeData.baner}
           imageUrl={homeData.image}
         />
         <ShortText 

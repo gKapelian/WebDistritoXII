@@ -9,9 +9,9 @@
 	left : auto;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
 	.centerElement {
-		min-height : 15rem;
-		max-width : 15rem;
+		min-height : 11rem;
+		max-width : 11rem;
 	}
 }
