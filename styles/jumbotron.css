@@ -1,0 +1,17 @@
+.centerElement {
+	min-height : 20rem;
+	max-width : 20rem;
+}
+
+.imageStyle img{
+	width : auto;
+	height : 100%;
+	left : auto;
+}
+
+@media screen and (max-width: 600px) {
+	.centerElement {
+		min-height : 15rem;
+		max-width : 15rem;
+	}
+}
